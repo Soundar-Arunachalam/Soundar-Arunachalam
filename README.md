@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Soundar Arunachalam
 
-- 👀 I'm interested in **full-stack web development**, **real-time systems**, and **mobile app development** with Flutter
-- 🌱 I'm currently learning **distributed systems architecture**, **WebSocket-based real-time communication**, and **server-authoritative design patterns**
+- 👀 I'm interested in **full-stack web development**, and **mobile app development** with Flutter
+- 🌱 I'm currently learning **distributed systems architecture**, **WebSocket-based real-time communication**
 - 💞️ I'm looking to collaborate on **open-source web platforms**, **real-time applications**, and **developer tools**
 - 📫 How to reach me: [GitHub](https://github.com/Soundar-Arunachalam)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I built a tamper-proof real-time contest timer where even DevTools can't cheat the clock ⏱️
 
 ---
 
